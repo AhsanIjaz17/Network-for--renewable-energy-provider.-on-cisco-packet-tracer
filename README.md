@@ -1,0 +1,2 @@
+# Network for  renewable energy provider. on cisco packet tracer
+ The purpose of this project was to design and simulate an energy generation and consumption system using Cisco Packet Tracer. The system involved the integration of various components such as a PC, a server, a switch, solar panels, a power meter, a battery, and an LED. Additionally, the system incorporated other devices like a thermostat and a wind turbine for energy consumption and generation

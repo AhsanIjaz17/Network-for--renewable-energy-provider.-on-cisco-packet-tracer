@@ -19,12 +19,12 @@ This project implements a simulated energy-generation/consumption system using *
 ---
 
 ## 🧩 System Components 
-- **PC 
-- **Server:**   
-- **Switch:** 
-- **Solar panels & Wind turbine:** 
-- **Battery:**  
-- **Power meter / Sensors:** 
+- **PC**
+- **Server**   
+- **Switch** 
+- **Solar panels & Wind turbine** 
+- **Battery**  
+- **Power meter / Sensors** 
 
 ---
 
@@ -32,8 +32,7 @@ This project implements a simulated energy-generation/consumption system using *
 ## 📈 Results & Observations (Concise)
 - Renewable sources successfully powered loads and charged the battery under simulated conditions. 
 - Power meter provided actionable telemetry to optimize device usage.   
-- 
-
+  
 ---
 
 ## 📄 License & Use

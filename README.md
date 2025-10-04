@@ -7,12 +7,12 @@
 ---
 
 ## 🔎 Project Summary
-This project implements a simulated energy-generation/consumption system using **Cisco Packet Tracer**. It integrates typical network components (PC, server, switch) with renewable-energy elements (solar panels, wind turbine, battery and power meter) to demonstrate monitoring, control, and energy flow management in a realistic campus-style setup. Key learning goals: network connectivity, telemetry, and control interfaces for energy systems. :contentReference[oaicite:1]{index=1}
+This project implements a simulated energy-generation/consumption system using **Cisco Packet Tracer**. It integrates typical network components (PC, server, switch) with renewable-energy elements (solar panels, wind turbine, battery and power meter) to demonstrate monitoring, control, and energy flow management in a realistic campus-style setup. Key learning goals: network connectivity, telemetry, and control interfaces for energy systems. 
 
 ---
 
 ## ⚙️ What’s Included
-- **Project report (PDF)** — Overview, results & observations. :contentReference[oaicite:2]{index=2}  
+- **Project report (PDF)** — Overview, results & observations. 
 - **Packet Tracer topology** — (topology.pkt) — simulation of devices and flow.  
 - **Diagrams & screenshots** — visual proof of concept .  
 
@@ -31,9 +31,9 @@ This project implements a simulated energy-generation/consumption system using *
 
 
 ## 📈 Results & Observations (Concise)
-- Renewable sources successfully powered loads and charged the battery under simulated conditions. :contentReference[oaicite:14]{index=14}  
-- Power meter provided actionable telemetry to optimize device usage. :contentReference[oaicite:15]{index=15}  
-- System control via PC demonstrated how networked energy assets can be monitored and managed centrally. :contentReference[oaicite:16]{index=16}
+- Renewable sources successfully powered loads and charged the battery under simulated conditions. 
+- Power meter provided actionable telemetry to optimize device usage.   
+- System control via PC demonstrated how networked energy assets can be monitored and managed centrally.
 
 ---
 
